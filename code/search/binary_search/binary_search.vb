@@ -1,4 +1,5 @@
 'Binary Search Algorithm in VB
+'can be implement in any vb program..
 
 Private Sub Command1_Click()
     
@@ -38,4 +39,4 @@ End Function
 Private Sub Form_Load()
     Text1.Text = 7
     Label1.Caption = "Binary Search Test"
-End Sub
+End Sub 
